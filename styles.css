@@ -1,0 +1,25 @@
+body{
+    background-color:#d6e2f0;
+    padding: 8% 25%;
+   display: flexbox;
+   justify-content: center;
+}
+.card{
+    padding: 15px;
+    font-family:'Outfit', sans-serif;
+    text-align: center;
+    font-size: 15px;
+    line-height: 1.2em;
+    position: relative;
+}
+img{
+    border-radius:10px;
+}
+h5{
+ font-weight: 700;
+ color:#1f3251;
+}
+p{
+   color: #7b879d;
+    font-weight: 300;
+}
